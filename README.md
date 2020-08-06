@@ -1,2 +1,2 @@
 # Copy-CSS-from-panel
-Plugin for Adobe xd that allows you to copy css styles
+Plugin for Adobe XD that allows you to copy CSS styles
