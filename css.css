@@ -43,4 +43,11 @@ body{
     display: block;
     width: 100px;
     margin: 0 auto;
+    max-width: 100%;
+}
+
+@media(max-width: 430px){
+    .title{
+        font-size: 25px;
+    }
 }
